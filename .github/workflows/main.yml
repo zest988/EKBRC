@@ -1,0 +1,7 @@
+Flash the ESP32 using the firmware files.
+
+Copy scripts to your Kobo’s .adds folder.
+
+Pair the remote by running auto_pair.sh via NickelMenu.
+
+Protect KOReader with block_updates.sh.
