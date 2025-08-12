@@ -1,0 +1,4 @@
+GND → Both buttons (one side)
+│
+GPIO21 (D21) → Button 1 (NEXT page)
+GPIO22 (D22) → Button 2 (PREV page)
